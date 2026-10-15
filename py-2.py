@@ -1,0 +1,5 @@
+print("Hey, please fill this form!")
+name=input("Enter your name:")
+age=input("Enter your age:")
+add=input("Enter your city's name:")
+print("HI", name, ", your age is", age, ". Stay tuned to find friends from", add)
